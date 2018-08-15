@@ -15,10 +15,9 @@ class CTest {};
 
 TEST(CLicenseTest, EXAMPLE) {
 
-	cout << "EXAMPLE:" << endl;
+	cout << "EXAMPLE1" << endl;
 	
 }
-#endif
 
 
 int main(int argc, const char **argv) {
