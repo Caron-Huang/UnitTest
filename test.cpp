@@ -6,8 +6,6 @@
  */
 #include "testcase.h"
 
-#include "../src/crypto/crypto.h"
-
 using namespace std;
 using namespace test;
 
